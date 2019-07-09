@@ -1,5 +1,5 @@
 # Face-detection-with-Haar-Cascade-Explanation.
-In this repository I am gonna show you how ine can detect face from an image using Haar cascade and understang its working.
+In this repository I am gonna show you how one can detect face from an image using Haar cascade and understang its working.
 <h3>A pipeline of Haar Cascade Face Detection</h3>
 <img class="alignnone size-full wp-image-123" src="https://getpython.files.wordpress.com/2019/07/screenshot-from-2019-07-09-00-49-51.png" alt="Screenshot from 2019-07-09 00-49-51" width="749" height="262" />
 <h3></h3>
